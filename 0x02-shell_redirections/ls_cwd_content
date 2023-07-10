@@ -1,1 +1,16 @@
-ls -la
+total 96
+-rw-r--r--@  1 neosekaleli  staff   12 Jul 10 19:29 *\\\Best School'*$******:)
+drwxr-xr-x@ 15 neosekaleli  staff  480 Jul 10 20:11 .
+drwxr-xr-x@  8 neosekaleli  staff  256 Jul 10 12:50 ..
+-rwxr-xr-x@  1 neosekaleli  staff   32 Jul 10 16:38 0-hello_world
+-rwxr-xr-x@  1 neosekaleli  staff   29 Jul 10 17:37 1-confused_smiley
+-rwxr-xr-x@  1 neosekaleli  staff   28 Jul 10 17:41 2-hellofile
+-rwxr-xr-x@  1 neosekaleli  staff   40 Jul 10 17:48 3-twofiles
+-rwxr-xr-x@  1 neosekaleli  staff   36 Jul 10 17:55 4-lastlines
+-rwxr-xr-x@  1 neosekaleli  staff   35 Jul 10 18:01 5-firstlines
+-rwxr-xr-x@  1 neosekaleli  staff   36 Jul 10 19:11 6-third_line
+-rwxr-xr-x@  1 neosekaleli  staff   36 Jul 10 20:02 7-file
+-rwxr-xr-x@  1 neosekaleli  staff   37 Jul 10 20:11 8-cwd_state
+-rw-r--r--@  1 neosekaleli  staff   33 Jul 10 13:19 README.md
+-rw-r--r--@  1 neosekaleli  staff   37 Jul 10 19:16 iacta
+-rw-r--r--@  1 neosekaleli  staff    0 Jul 10 20:11 ls_cwd_content
