@@ -1,2 +1,2 @@
 #!/bin/bash 
-count=$(find . -type d -not -name '.' -print | grep -c '')
+find . -type d -not -name '.' -print
