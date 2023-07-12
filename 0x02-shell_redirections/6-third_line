@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+#!/bin/bash 
+awk 'NR==3' iacta
+=======
 #!/bin/bash
 head -3 iacta | tail -1
+>>>>>>> d8b67aa95ac2e91df3f5a63ab4e7e4427d41bd34
